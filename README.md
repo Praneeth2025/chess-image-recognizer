@@ -19,7 +19,10 @@ This Jupyter Notebook (chess.ipynb) is focused on recognizing chess pieces from 
 <li>A camera or a collection of chessboard images for input</li>
 
 <h5>This the sample image used for testing</h5>
-![1](https://github.com/user-attachments/assets/82d7ccd5-d7a5-4fd2-9bc3-8a9e95a4c032)
+
+![Screenshot 2024-08-23 131821](https://github.com/user-attachments/assets/2f2bce25-fec5-4dd0-a479-f49e66ce09dc)
+
+
 
 <h5>This is our result</h5>
 
